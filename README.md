@@ -3,8 +3,6 @@
 ## Project Overview
 This is a **personal portfolio website** created using **HTML and CSS** to showcase my profile, skills, projects, certificates, and hobbies in a structured and visually clean manner.
 
-🔗 Live Website:  
-[https://ankit180104.github.io/portfolio-website/](https://ankit180104.github.io/Sample_portfolio/)
 
 ---
 
